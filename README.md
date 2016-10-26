@@ -1,0 +1,2 @@
+# Pong
+Table tennis, also known as ping pong, is a sport in which two players hit a  ball back and forth across a the pane using a racquet.The rules are generally as follows: players must allow a ball played toward them to bounce one time on their side  and must return it so that it bounces on the opposite side at least once. A point is scored when a player fails to return the ball within the rules. 
